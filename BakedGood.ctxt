@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BakedGood
+comment0.text=\n\ Represents\ a\ single\ baked\ good\ in\ our\ bakery's\ inventory\n\n\ @author\ Jessica\n\ @version\ Jan\ 16\ 2024\n
+comment1.params=name\ recipe\ price\ quantity
+comment1.target=BakedGood(java.lang.String,\ java.lang.String,\ double,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ BakedGood\n
+numComments=2
