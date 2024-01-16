@@ -23,7 +23,6 @@ public class BakedGood
         this.quantity = quantity;
     }
     
-    //modify the quantity
     public void increaseQuantity(int count) {
         this.quantity += count;
     }
